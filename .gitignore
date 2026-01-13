@@ -88,3 +88,11 @@ turbo-lock.json  # Optional: Only if you don't want to commit the lockfile
 # Firebase
 .firebaserc
 .firebase/
+
+# Next.js
+.next/
+apps/web/.next/
+apps/web/node_modules/
+.next/cache/
+.next/server/
+out/  
